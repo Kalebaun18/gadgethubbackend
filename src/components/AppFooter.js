@@ -9,8 +9,8 @@ const AppFooter = () => {
       </div>
       <div className="ms-auto">
         <span className="me-1">Powered by</span>
-        <a href="https://github.com/a5hi5hx" target="_blank" rel="noopener noreferrer">
-          Ashish Paudel
+        <a href="https://github.com/Kalebaun18" target="_blank" rel="noopener noreferrer">
+          Subash Poudel
         </a>
       </div>
     </CFooter>

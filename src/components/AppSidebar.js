@@ -31,7 +31,7 @@ const AppSidebar = () => {
     >
       <CSidebarBrand className="d-md-down-none c-brand-logo" to="/">
         <span style={{ marginLeft: 4 }}>
-          <strong>MitaHub</strong>
+          <strong>Gadget Hub Pokhara</strong>
         </span>
       </CSidebarBrand>
       <CSidebarNav>
